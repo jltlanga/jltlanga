@@ -7,9 +7,6 @@
 [![Academic](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/JULI%C3%83OALBERTOLANGA)
 
 ![langa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=dracula)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltlanga&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
