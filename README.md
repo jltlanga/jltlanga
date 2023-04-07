@@ -6,7 +6,7 @@
 [![Meta](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/julito.langa)
 [![Academic](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/JULI%C3%83OALBERTOLANGA)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![langa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=radical)
 
 
 <!--
