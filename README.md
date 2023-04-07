@@ -7,7 +7,13 @@
 [![Academic](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/JULI%C3%83OALBERTOLANGA)
 
 ![langa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltlanga&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+## My daily used Technologies
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+</div>
+
 
 
 <!--
