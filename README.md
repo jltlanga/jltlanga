@@ -8,7 +8,7 @@
 [![Academic](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://independent.academia.edu/JULI%C3%83OALBERTOLANGA)
 
 ![langa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jltlanga&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltlanga&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+% [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jltlanga&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My daily used Technologies
 <div style="display: inline_block"><br/>
